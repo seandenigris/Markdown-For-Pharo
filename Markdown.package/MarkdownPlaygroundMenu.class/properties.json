@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "GTAbstractExampleMenu",
+	"category" : "Markdown",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MarkdownPlaygroundMenu",
+	"type" : "normal"
+}
